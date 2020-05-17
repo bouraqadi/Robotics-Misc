@@ -4,6 +4,8 @@ This folder provide Choregraph source code developed as part of a 2015 student p
 The goal of the project was to make Nao humanoid robot write some words.
 This was performed by defining motions for individual letters. Then, to write words, blocks for individual letters are performed separated by motions to move the paper. A demo is provided in the video below.
 
+[Learn more about the project on the dedicated page.](https://nootrix.com/projects/nao-writer/)
+
 [![Nao Writer](https://img.youtube.com/vi/PDHDNxRDSqY/0.jpg)](https://www.youtube.com/watch?v=PDHDNxRDSqY)
 
 ## Setup
